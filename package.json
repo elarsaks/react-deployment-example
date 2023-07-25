@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "react-deployment-example",
+  "homepage": "https://elarsaks.github.io/react-deployment-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
