@@ -1,6 +1,5 @@
-# React Deployment Example
+# Example of React Deployment into GitHub Pages, using GitHub Actions
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/elar-saks/react-deployment-example/deploy-react-app.yml?branch=deploy-react-app)](https://github.com/elar-saks/react-deployment-example/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
 
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQHObzwwV-SWHg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1690304767597?e=1756339200&v=beta&t=sIqyM2xH4NaGG4U3YH8SfOQZshzxp7ecifcJE_gSiSo" alt="React app deployment workflow example" style="display:block;width:100%;max-width:100vw;margin:0;padding:0;border:0;"> <br>
