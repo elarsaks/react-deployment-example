@@ -1,6 +1,9 @@
-# Example of React Deployment into GitHub Pages, using GitHub Actions
+# React Deployment Example
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+**Live Demo:** [elarsaks.github.io/react-deployment-example/](https://elarsaks.github.io/react-deployment-example/)
 
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQHObzwwV-SWHg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1690304767597?e=1756339200&v=beta&t=sIqyM2xH4NaGG4U3YH8SfOQZshzxp7ecifcJE_gSiSo" alt="React app deployment workflow example" style="display:block;width:100%;max-width:100vw;margin:0;padding:0;border:0;"> <br>
 
@@ -56,6 +59,7 @@
 See the workflow file at `.github/workflows/deploy-react-app.yml` for details.
 
 ## Related Resources
+- [React App Deployed by this repo](https://elarsaks.github.io/react-deployment-example/)
 - [LinkedIn Article: Automate React App Deployment with GitHub Actions](https://www.linkedin.com/pulse/automate-react-app-deployment-github-actions-elar-saks-/)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
