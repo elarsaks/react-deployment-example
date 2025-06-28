@@ -1,7 +1,7 @@
 # React Deployment Example
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
 
 **Live Demo:** [elarsaks.github.io/react-deployment-example/](https://elarsaks.github.io/react-deployment-example/)
 
